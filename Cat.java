@@ -2,8 +2,10 @@ class Cat{
 private String color;
 private int leg;
 
+private int liu;
+
 
 public void run(){
-	System.out.printIn("如果可以做个废物，为什么不能是我呢");
+	System.out.printIn("");
 }
 }
