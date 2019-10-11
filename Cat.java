@@ -1,10 +1,8 @@
 class Cat{
 private String color;
-
-private int liu;
-
-
+private int li;
 public void run(){
 	System.out.printIn("");
 }
+
 }
